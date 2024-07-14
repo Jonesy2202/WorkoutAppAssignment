@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WorkoutPlannerApp</string>
+    <string name="workout_planner">Workout Planner</string>
+    <string name="planner">Planner</string>
+    <string name="back">Back</string>
+    <string name="my_exercises">My Exercises</string>
+    <string name="edit_workout">edit workout</string>
+    <string name="change_session_focus">Change Session Focus</string>
+    <string name="change_session_length">Change Session Length</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete_workout">Delete Workout</string>
+    <string name="expand_card_arrow">Expand card arrow</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="repetitions">Repetitions</string>
+    <string name="sets">Sets</string>
+    <string name="weight">Weight</string>
+    <string name="select_workout">Select Workout</string>
+    <string name="dropdown_arrow">dropdown arrow</string>
+    <string name="dropset">Dropset</string>
+    <string name="drop_set">DROP SET</string>
+</resources>
